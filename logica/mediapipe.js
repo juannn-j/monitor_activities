@@ -1,5 +1,3 @@
-// logica/mediapipe.js
-
 export function createPoseInstance(onResults) {
     const pose = new window.Pose({
         locateFile: (file) => `https://cdn.jsdelivr.net/npm/@mediapipe/pose/${file}`
