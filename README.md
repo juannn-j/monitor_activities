@@ -12,10 +12,13 @@ Este proyecto implementa un sistema de clasificación y monitoreo de poses en ti
 ## Capturas de Pantalla
 
 ### Detección con OpenCV
+
 ![Detección OpenCV](./assets/opencv.png)
 
 ### Vista de Cámara
+
 ![Vista de Cámara](./assets/camera.png)
 
 ### Galería de Poses
+
 ![Galería](./assets/gallery.png)
